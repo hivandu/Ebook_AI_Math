@@ -1,10 +1,11 @@
 \documentclass[oneside]{book}
+\usepackage{mathptmx}
 \usepackage[a4paper]{geometry}
-% \geometry{
+\geometry{
 %     paperwidth=1190pt, % 宽度
 %     paperheight=1682pt, % 纸张高度
-%     margin=2cm % 设置页边距，也可以根据需要进行调整
-% }
+    % margin=2cm % 设置页边距，也可以根据需要进行调整
+}
 \usepackage[utf8]{inputenc}
 \usepackage[UTF8]{ctex}
 \usepackage{eso-pic}
@@ -13,11 +14,13 @@
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{amsfonts}
+\usepackage{fontspec}
 \usepackage{booktabs}
 \usepackage{float}
 \usepackage{indentfirst}
 \usepackage{fancyhdr}
 \usepackage{xcolor} 
+\usepackage{caption}
 \usepackage{draftwatermark}
 \SetWatermarkText{坍缩的奇点@茶桁} % 水印文字
 \SetWatermarkLightness{0.97} % the lightness from 0 to 1, default 0.8
@@ -30,6 +33,8 @@
 %   \includegraphics[width=\paperwidth,height=\paperheight]{background.png} % 背景图片
 % }
 % \makeatother
+% \setCJKmainfont[BoldFont={PingFang SC Medium}, ItalicFont={YuppySC-Regular}]{PingFang SC Light}
+% \setmainfont{Arial}
 
 \title{茶桁的AI秘籍 - 数学篇}
 \author{坍缩的奇点@茶桁}
@@ -78,14 +83,16 @@
   \end{minipage}
 \end{titlepage}
 
-
-\setlength{\parindent}{0em}
+\setlength{\parindent}{2em}
 \setlength{\parskip}{2ex}
 
-\include{chapters/chapter1}
-\include{chapters/chapter2}
+% 设置图像label点击定位偏移量
+\captionsetup[figure]{position=b}
+
+% \include{chapters/chapter1}
+% \include{chapters/chapter2}
 % \include{chapters/chapter3}
-% \include{chapters/chapter4}
+\include{chapters/chapter4}
 % \include{chapters/chapter5}
 % \include{chapters/chapter6}
 % \include{chapters/chapter7}
