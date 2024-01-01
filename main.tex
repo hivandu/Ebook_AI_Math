@@ -21,11 +21,18 @@
 \usepackage{fancyhdr}
 \usepackage{xcolor} 
 \usepackage{caption}
+\usepackage{tcolorbox}
 \usepackage{draftwatermark}
 \SetWatermarkText{坍缩的奇点@茶桁} % 水印文字
 \SetWatermarkLightness{0.97} % the lightness from 0 to 1, default 0.8
 \SetWatermarkScale{0.5} % the scale, default 1.2
 \usepackage[pdfstartview={XYZ null null 1.5}, colorlinks, linkcolor=blue]{hyperref}
+
+\newtcolorbox{newquotation}{
+  colback=blue!5!white, % 背景颜色
+  colframe=blue!10!white, % 边框颜色
+  fontupper=\itshape % 斜体字体
+}
 
 % 自定义封面
 % \makeatletter
@@ -89,14 +96,14 @@
 % 设置图像label点击定位偏移量
 \captionsetup[figure]{position=b}
 
-% \include{chapters/chapter1}
+\include{chapters/chapter1}
 % \include{chapters/chapter2}
 % \include{chapters/chapter3}
 % \include{chapters/chapter4}
 % \include{chapters/chapter5}
 % \include{chapters/chapter6}
 % \include{chapters/chapter7}
-\include{chapters/chapter8}
+% \include{chapters/chapter8}
 % \include{chapters/chapter9}
 % \include{chapters/chapter10}
 % \include{chapters/chapter11}
