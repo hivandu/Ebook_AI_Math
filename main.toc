@@ -1,0 +1,128 @@
+\contentsline {chapter}{\numberline {1}Introduction 简介}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}导言}{8}{section.1.1}%
+\contentsline {chapter}{\numberline {2}数学导论 - 概述}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}前言}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}为什么需要数学}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}人类如何表示数字}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}计算机可以做什么？}{17}{section.2.4}%
+\contentsline {chapter}{\numberline {3}数学导论 - 微积分基础:导数}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}函数}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}导数}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}导数与微分（一元函数）}{28}{section.3.3}%
+\contentsline {section}{\numberline {3.4}偏导数}{32}{section.3.4}%
+\contentsline {chapter}{\numberline {4}数学导论 - 线性代数基础:矩阵}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}矩阵}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}鸡兔同笼}{35}{section.4.2}%
+\contentsline {section}{\numberline {4.3}线性方程组}{36}{section.4.3}%
+\contentsline {section}{\numberline {4.4}矩阵的运算}{37}{section.4.4}%
+\contentsline {paragraph}{矩阵的标量乘法}{38}{section*.28}%
+\contentsline {paragraph}{矩阵的向量乘法}{38}{section*.29}%
+\contentsline {section}{\numberline {4.5}矩阵的转置}{41}{section.4.5}%
+\contentsline {section}{\numberline {4.6}矩阵的逆}{42}{section.4.6}%
+\contentsline {chapter}{\numberline {5}数学导论 - 概率统计基础:随机变量}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}概率\&统计}{44}{section.5.1}%
+\contentsline {section}{\numberline {5.2}联合概率}{46}{section.5.2}%
+\contentsline {section}{\numberline {5.3}条件概率}{47}{section.5.3}%
+\contentsline {section}{\numberline {5.4}随机事件}{49}{section.5.4}%
+\contentsline {section}{\numberline {5.5}数学期望}{50}{section.5.5}%
+\contentsline {section}{\numberline {5.6}方差}{53}{section.5.6}%
+\contentsline {section}{\numberline {5.7}标准差}{57}{section.5.7}%
+\contentsline {section}{\numberline {5.8}协方差}{57}{section.5.8}%
+\contentsline {chapter}{\numberline {6}数学导论 - 图论:图的概念}{61}{chapter.6}%
+\contentsline {section}{\numberline {6.1}图论}{62}{section.6.1}%
+\contentsline {section}{\numberline {6.2}导论总结: 数学如何运用于AI}{65}{section.6.2}%
+\contentsline {chapter}{\numberline {7}函数}{67}{chapter.7}%
+\contentsline {section}{\numberline {7.1}函数}{68}{section.7.1}%
+\contentsline {chapter}{\numberline {8}极限}{74}{chapter.8}%
+\contentsline {section}{\numberline {8.1}极限}{75}{section.8.1}%
+\contentsline {chapter}{\numberline {9}连续}{82}{chapter.9}%
+\contentsline {section}{\numberline {9.1}连续}{83}{section.9.1}%
+\contentsline {paragraph}{连续的正式定义如下}{84}{section*.54}%
+\contentsline {chapter}{\numberline {10}微积分: 导数}{88}{chapter.10}%
+\contentsline {section}{\numberline {10.1}导数}{89}{section.10.1}%
+\contentsline {section}{\numberline {10.2}求导实例}{91}{section.10.2}%
+\contentsline {paragraph}{导数的运算法则}{92}{section*.61}%
+\contentsline {section}{\numberline {10.3}代码演示: 迭代法求解二次函数最小值}{94}{section.10.3}%
+\contentsline {section}{\numberline {10.4}阶}{97}{section.10.4}%
+\contentsline {chapter}{\numberline {11}微分\&链式法则}{99}{chapter.11}%
+\contentsline {section}{\numberline {11.1}微分}{100}{section.11.1}%
+\contentsline {section}{\numberline {11.2}链式法则}{100}{section.11.2}%
+\contentsline {chapter}{\numberline {12}微积分 - 偏导数-方向导数}{104}{chapter.12}%
+\contentsline {section}{\numberline {12.1}偏导数}{105}{section.12.1}%
+\contentsline {section}{\numberline {12.2}方向导数}{107}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}方向余弦}{111}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}投影}{112}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}继续讲方向导数}{112}{subsection.12.2.3}%
+\contentsline {chapter}{\numberline {13}微积分 - 梯度-积分}{115}{chapter.13}%
+\contentsline {section}{\numberline {13.1}梯度}{116}{section.13.1}%
+\contentsline {paragraph}{函数 $z = f(x, y) = x^2 + y^2$ 何时取到最小值?}{118}{section*.75}%
+\contentsline {paragraph}{多元函数: $z = x^2 + y ^2$, 学习率: $\eta = 0.2$, 梯度: $(\frac {\partial z}{\partial x}, \frac {\partial z}{\partial y})$}{120}{section*.79}%
+\contentsline {paragraph}{迭代}{120}{section*.80}%
+\contentsline {section}{\numberline {13.2}积分}{120}{section.13.2}%
+\contentsline {chapter}{\numberline {14}牛顿-莱布尼兹公式-泰勒展开}{128}{chapter.14}%
+\contentsline {section}{\numberline {14.1}牛顿-莱布尼兹公式}{129}{section.14.1}%
+\contentsline {section}{\numberline {14.2}牛顿-莱布尼兹公式的意义}{133}{section.14.2}%
+\contentsline {section}{\numberline {14.3}泰勒展开}{134}{section.14.3}%
+\contentsline {section}{\numberline {14.4}结束语}{140}{section.14.4}%
+\contentsline {chapter}{\numberline {15}线性代数 - 线性方程组}{141}{chapter.15}%
+\contentsline {section}{\numberline {15.1}线性方程组}{142}{section.15.1}%
+\contentsline {section}{\numberline {15.2}矩阵}{143}{section.15.2}%
+\contentsline {section}{\numberline {15.3}行列式}{144}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}全排列和逆序数}{146}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}N阶行列式}{147}{subsection.15.3.2}%
+\contentsline {section}{\numberline {15.4}（非）齐次线性方程}{150}{section.15.4}%
+\contentsline {chapter}{\numberline {16}线性代数 - 克拉默法则}{151}{chapter.16}%
+\contentsline {section}{\numberline {16.1}克拉默法则}{152}{section.16.1}%
+\contentsline {section}{\numberline {16.2}矩阵运算}{155}{section.16.2}%
+\contentsline {chapter}{\numberline {17}线性代数 - 矩阵的性质 }{158}{chapter.17}%
+\contentsline {section}{\numberline {17.1}神经网络的矩阵/向量}{159}{section.17.1}%
+\contentsline {section}{\numberline {17.2}矩阵的性质}{163}{section.17.2}%
+\contentsline {chapter}{\numberline {18}线性代数 - 矩阵的转置和逆}{168}{chapter.18}%
+\contentsline {section}{\numberline {18.1}矩阵的转置}{169}{section.18.1}%
+\contentsline {section}{\numberline {18.2}矩阵的逆}{170}{section.18.2}%
+\contentsline {section}{\numberline {18.3}例子: 行操作求矩阵的逆}{172}{section.18.3}%
+\contentsline {chapter}{\numberline {19}线性代数 - 线性变换}{175}{chapter.19}%
+\contentsline {section}{\numberline {19.1}线性空间}{176}{section.19.1}%
+\contentsline {section}{\numberline {19.2}线性变换}{177}{section.19.2}%
+\contentsline {section}{\numberline {19.3}线性变换的几何意义}{179}{section.19.3}%
+\contentsline {section}{\numberline {19.4}特征值与特征向量}{181}{section.19.4}%
+\contentsline {section}{\numberline {19.5}NumPy的矩阵操作}{184}{section.19.5}%
+\contentsline {chapter}{\numberline {20}概率与统计 - 频率派\&贝叶斯派}{192}{chapter.20}%
+\contentsline {section}{\numberline {20.1}频数和频率}{193}{section.20.1}%
+\contentsline {section}{\numberline {20.2}频率派视角下的概率}{194}{section.20.2}%
+\contentsline {section}{\numberline {20.3}贝叶斯派视角下的概率}{198}{section.20.3}%
+\contentsline {chapter}{\numberline {21}概率与统计 - 概型、概率和随机变量}{200}{chapter.21}%
+\contentsline {section}{\numberline {21.1}古典概型}{201}{section.21.1}%
+\contentsline {section}{\numberline {21.2}几何概型}{202}{section.21.2}%
+\contentsline {section}{\numberline {21.3}联合概率}{205}{section.21.3}%
+\contentsline {section}{\numberline {21.4}条件概率}{206}{section.21.4}%
+\contentsline {section}{\numberline {21.5}随机变量}{207}{section.21.5}%
+\contentsline {chapter}{\numberline {22}概率与统计 - 数学期望、统计描述 \& 分布}{208}{chapter.22}%
+\contentsline {section}{\numberline {22.1}数学期望}{209}{section.22.1}%
+\contentsline {section}{\numberline {22.2}方差}{211}{section.22.2}%
+\contentsline {section}{\numberline {22.3}标准差}{214}{section.22.3}%
+\contentsline {section}{\numberline {22.4}协方差}{214}{section.22.4}%
+\contentsline {section}{\numberline {22.5}二项分布}{216}{section.22.5}%
+\contentsline {section}{\numberline {22.6}高斯分布}{218}{section.22.6}%
+\contentsline {section}{\numberline {22.7}中心极限定理}{220}{section.22.7}%
+\contentsline {section}{\numberline {22.8}泊松分布}{221}{section.22.8}%
+\contentsline {chapter}{\numberline {23}概率与统计 - 贝叶斯统计\&机器学习分类指标}{224}{chapter.23}%
+\contentsline {section}{\numberline {23.1}贝叶斯统计}{225}{section.23.1}%
+\contentsline {section}{\numberline {23.2}机器学习分类指标}{229}{section.23.2}%
+\contentsline {chapter}{\numberline {24}图论 - 图的由来和构成}{233}{chapter.24}%
+\contentsline {section}{\numberline {24.1}图的由来}{234}{section.24.1}%
+\contentsline {section}{\numberline {24.2}图的构成}{238}{section.24.2}%
+\contentsline {chapter}{\numberline {25}图论 - 图的表示, 种类}{242}{chapter.25}%
+\contentsline {section}{\numberline {25.1}图的表示}{243}{section.25.1}%
+\contentsline {section}{\numberline {25.2}邻接矩阵}{247}{section.25.2}%
+\contentsline {section}{\numberline {25.3}图的种类}{250}{section.25.3}%
+\contentsline {chapter}{\numberline {26}图论 - 路径和算法}{255}{chapter.26}%
+\contentsline {section}{\numberline {26.1}拓展: 顶点和边的互换}{256}{section.26.1}%
+\contentsline {section}{\numberline {26.2}最短路径问题}{257}{section.26.2}%
+\contentsline {section}{\numberline {26.3}Dijkstra算法}{258}{section.26.3}%
+\contentsline {chapter}{\numberline {27}图论 - 树}{266}{chapter.27}%
+\contentsline {section}{\numberline {27.1}树}{267}{section.27.1}%
+\contentsline {section}{\numberline {27.2}生成树}{268}{section.27.2}%
+\contentsline {section}{\numberline {27.3}最小生成树}{269}{section.27.3}%
+\contentsline {section}{\numberline {27.4}图与人工智能}{273}{section.27.4}%
+\contentsline {section}{\numberline {27.5}人工智能数学基础}{275}{section.27.5}%
